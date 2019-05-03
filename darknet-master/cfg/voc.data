@@ -1,0 +1,6 @@
+classes= 3
+train  = scripts/KITTIdevkit/KITTI/ImageSets/Main/train.txt
+valid  = scripts/KITTIdevkit/KITTI/ImageSets/Main/test.txt
+names = data/voc.names
+backup = backup
+

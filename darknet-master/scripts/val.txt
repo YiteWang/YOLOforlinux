@@ -1,0 +1,4 @@
+/content/gdrive/My Drive/project/darknet-master/scripts/KITTIdevkit/KITTI/JPEGImages/000040.png
+/content/gdrive/My Drive/project/darknet-master/scripts/KITTIdevkit/KITTI/JPEGImages/000043.png
+/content/gdrive/My Drive/project/darknet-master/scripts/KITTIdevkit/KITTI/JPEGImages/000070.png
+/content/gdrive/My Drive/project/darknet-master/scripts/KITTIdevkit/KITTI/JPEGImages/000082.png
